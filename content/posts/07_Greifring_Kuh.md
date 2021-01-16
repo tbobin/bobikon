@@ -2,7 +2,7 @@
 title: "Kuh Greifring"
 date: 2020-12-08T22:31:55+01:00
 draft: false
-image: "img/Kuh_Greifring/Kuh_hell_3.jpg"
+image: "img/greifring_kuh/Kuh_hell_3.jpg"
 ---
 
 Vom Bauerhof: Ein Kuh Greifring für die kleinsten.
@@ -21,5 +21,7 @@ Ggf. Handwäsche und liegend trocknen.
 Jedes Produkt wird durch mich in Handarbeit gefertigt. Farbe und Form können leicht variieren.
 Beachte bitte auch, dass je nach Bildschirm bzw Display die Farben vom Original abweichen können.
 
+Hier geht es zu unserem [Shop](https://www.etsy.com/de/shop/BobiKon)
+
 {{< load-photoswipe >}}
-{{< gallery dir="/img/Kuh_Greifring/" caption-position="none"/>}}
+{{< gallery dir="/img/greifring_kuh/" caption-position="none"/>}}

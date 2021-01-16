@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tbobin.github.io/bobikon/"
 languageCode = "de-de"
 title = "Willkomen bei Bobikon"
 theme = "hugo-creative-portfolio-theme"
@@ -11,7 +11,7 @@ theme = "hugo-creative-portfolio-theme"
   description = "Häckeln mit Bobikon"
   copyright = "&copy;2020 Bobikon"
   sidebarAbout = [
-    "Willkomen auf unseres Seite rund um das Häckeln" 
+    "Willkomen auf unseres Seite rund um das Häckeln"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
