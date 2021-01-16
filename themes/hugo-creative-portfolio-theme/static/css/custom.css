@@ -1,0 +1,5 @@
+/* your styles go here */
+
+img[alt=blog].img-responsive { 
+	max-height:400px;
+}

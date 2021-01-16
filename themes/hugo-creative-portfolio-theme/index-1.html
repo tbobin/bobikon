@@ -1,0 +1,65 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Unbekannt </title></head><body>
+<h1 id="creative-portfolio-theme-for-hugo">Creative portfolio theme for hugo</h1>
+<p><a href="https://travis-ci.org/kishaningithub/hugo-creative-portfolio-theme"><img alt="Build Status" src="https://travis-ci.org/kishaningithub/hugo-creative-portfolio-theme.svg?branch=master" /></a>
+<a href="https://gitter.im/hugo-creative-portfolio-theme/Lobby?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img alt="Join the chat at https://gitter.im/hugo-creative-portfolio-theme/Lobby" src="https://badges.gitter.im/hugo-creative-portfolio-theme/Lobby.svg" /></a>
+<a href="https://www.paypal.me/kishansh/5"><img alt="Buy me a coffee" src="https://img.shields.io/badge/â˜•-Buy%20me%20a%20coffee-blue.svg" /></a></p>
+<p>Creative portfolio is a clean and elegant template mainly made for designers and creatives but can be easily transformed into a generic website.</p>
+<p>This Hugo theme was ported from <a href="https://bootstrapious.com/p/creative-portfolio">Bootstrapious</a> for training and fun. It has a very nice landing page, a comments system by Disqus, contact forms by Formspree and Google Analytics.</p>
+<p><img alt="screenshot" src="https://raw.githubusercontent.com/kishaningithub/hugo-creative-portfolio-theme/master/images/screenshot.png" /></p>
+<h2 id="installation">Installation</h2>
+<p>Go to the directory where you have your Hugo site and run:</p>
+<p><code>bash
+mkdir themes
+cd themes
+git clone https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+rm -rf hugo-creative-portfolio-theme/.git</code></p>
+<p>For more information read the official <a href="https://gohugo.io/overview/installing/">setup guide</a> of Hugo.</p>
+<h2 id="configuration">Configuration</h2>
+<p>After installing the Creative portfolio theme successfully, i recommend you to take a look at the <a href="https://github.com/kishaningithub/hugo-creative-portfolio-theme/tree/master/exampleSite">exampleSite</a> directory. You will find a working Hugo site configured with the Creative portfolio theme that you can use as a starting point for your site.</p>
+<p>First, let's take a look at the <a href="https://github.com/kishaningithub/hugo-creative-portfolio-theme/tree/master/exampleSite/config.toml">config.toml</a>. It will be useful to learn how to customize your site. Feel free to play around with the settings.</p>
+<h3 id="style">Style</h3>
+<p>You can change the color of the theme by modifying the following key.</p>
+<p><code>toml
+style = "default"</code></p>
+<p>Available options are: <code>default</code> (pink), <code>blue</code>, <code>green</code>, <code>pink</code>, <code>red</code>, <code>sea</code>, <code>violet</code>.</p>
+<h3 id="more-style-customizations">More style customizations?</h3>
+<p>Create <code>css/custom.css</code> in your <code>&lt;&lt;base dir&gt;&gt;/static</code> folder and add all your custom styling.</p>
+<h3 id="comments">Comments</h3>
+<p>The optional comments system is powered by <a href="https://disqus.com">Disqus</a>. If you want to enable comments, create an account in Disqus and write down your shortname.</p>
+<p><code>toml
+disqusShortname = "your-disqus-short-name"</code></p>
+<p>You can disable the comments system by leaving the <code>disqusShortname</code> empty.</p>
+<h3 id="google-analytics">Google Analytics</h3>
+<p>You can optionally enable Google Analytics. Type your tracking code in the ``.</p>
+<p><code>toml
+googleAnalytics = "UA-XXXXX-X"</code></p>
+<p>Leave the <code>googleAnalytics</code> key empty to disable it.</p>
+<h3 id="make-the-contact-form-working">Make the contact form working</h3>
+<p>Since this page will be static, you can use <a href="//formspree.io/">formspree.io</a> as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Begin the setup by following the steps below:</p>
+<ol>
+<li>Enter your email address under 'email' in the <a href="https://github.com/kishaningithub/hugo-creative-portfolio-theme/tree/master/exampleSite/config.toml"><code>config.toml</code></a></li>
+<li>Upload the generated site to your server</li>
+<li>Send a dummy email yourself to confirm your account</li>
+<li>Click the confirm link in the email from <a href="//formspree.io/">formspree.io</a></li>
+<li>You're done. Happy mailing!</li>
+</ol>
+<h3 id="nearly-finished">Nearly finished</h3>
+<p>In order to see your site in action, run Hugo's built-in local server.</p>
+<p><code>bash
+hugo server</code></p>
+<p>Now enter <a href="http://localhost:1313"><code>localhost:1313</code></a> in the address bar of your browser.</p>
+<h2 id="deployment">Deployment</h2>
+<ul>
+<li><a href="https://github.com/kishaningithub/hugo-creative-portfolio-theme/wiki/Deploying-to-Amazon-S3">Deploying to Amazon S3</a></li>
+</ul>
+<h2 id="base-theme-version-from-bootstrapious">Base theme version (From bootstrapious)</h2>
+<ul>
+<li>1.0</li>
+</ul>
+<h2 id="contributing">Contributing</h2>
+<p>Have you found a bug or got an idea for a new feature? Feel free to use the <a href="https://github.com/kishaningithub/hugo-creative-portfolio-theme/issues">issue tracker</a> to let me know. Or make directly a <a href="https://github.com/kishaningithub/hugo-creative-portfolio-theme/pulls">pull request</a>.</p>
+<h2 id="license">License</h2>
+<p>This port is released under the MIT License. Check the <a href="https://bootstrapious.com/p/creative-portfolio">original theme license</a> for additional licensing information.</p>
+<h2 id="thanks">Thanks</h2>
+<p>Thanks to <a href="https://github.com/spf13">Steve Francia</a> for creating Hugo and the awesome community around the project. And also thanks to <a href="http://bootstrapious.com/">Bootstrapious</a> for creating this awesome theme.</p>
+</body></html>
