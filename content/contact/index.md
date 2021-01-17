@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 #### Anschrift
-Bobikon inhaber Tomasz Bobinski
+Bobikon Inhaber Tomasz Bobinski
 Pfinzstraße 42
 76227 Karlsruhe
 

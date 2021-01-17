@@ -6,17 +6,17 @@ permalink: /about/
 
 
 ### Angaben gemäß § 5 TMG
-Tomasz Bobinski  
-Bobikon  
-Pfinzstraße 42  
-76227 Karlsruhe  
+Tomasz Bobinski
+Bobikon
+Pfinzstraße 42
+76227 Karlsruhe
 
 ### Kontakt
 
 E-Mail: bobikon2020@gmail.com
 
 ### Redaktionell Verantwortlicher
-Tomasz Bobisnki
+Tomasz Bobinski
 
 ### Verbraucherstreitbeilegung/Universalschlichtungsstelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
