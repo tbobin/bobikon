@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Willkomen bei Bobikon</title>
-    <link>https://tbobin.github.io/bobikon/tags/</link>
+    <link>https://bobikon.com/tags/</link>
     <description>Recent content in Tags on Willkomen bei Bobikon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://tbobin.github.io/bobikon/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://bobikon.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
