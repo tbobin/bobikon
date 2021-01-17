@@ -4,9 +4,10 @@ title: Get in touch
 permalink: /contact/
 ---
 
-Bobikon inhaber Tomasz Bobinski <br>
+#### Anschrift
+Bobikon inhaber Tomasz Bobinski
 Pfinzstraße 42
 76227 Karlsruhe
 
-info@bobinski.de
-
+#### Kontakt
+E-Mail: bobikon2020@gmail.com

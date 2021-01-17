@@ -16,11 +16,7 @@ Marke: MyBoshi Nr. 1
 Waschmaschinenfest bei 30 Grad; nach dem Waschen liegend trocknen, um die Passform zu erhalten.
 
 
-[Hier könnt Ihr sie kaufen](https://www.etsy.com/de/BobiKon/listing/768289931/babymutze-gehakelt-barchenmutze?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1607463761818)
+[Hier könnt Ihr sie kaufen](https://www.etsy.com/de/BobiKon/listing/768289931/babymutze-gehakelt-barchenmutze)
 
 {{< load-photoswipe >}}
-{{< gallery dir="/img/baerchenmuetze/" caption-position="none" />}} 
-
-
-
-
+{{< gallery dir="/img/baerchenmuetze/" caption-position="none" />}}
