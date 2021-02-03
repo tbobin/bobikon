@@ -21,7 +21,9 @@ Ggf. Handwäsche und liegend trocknen.
 Jedes Produkt wird durch mich in Handarbeit gefertigt. Farbe und Form können leicht variieren.
 Beachte bitte auch, dass je nach Bildschirm bzw Display die Farben vom Original abweichen können.
 
-Hier geht es zu unserem [Shop](https://www.etsy.com/de/shop/BobiKon)
+Hier kannst Du die Kuh [bestellen](https://www.etsy.com/de/listing/856274127/rassel-beissring-kuh)
+
+Hier geht es zu unserem [Etsy-Shop](https://www.etsy.com/de/shop/BobiKon)
 
 {{< load-photoswipe >}}
 {{< gallery dir="/img/greifring_kuh/" caption-position="none"/>}}
