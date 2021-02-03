@@ -7,8 +7,8 @@ image: "img/stirnband/Stirnband_2.jpg"
 
 Gerne könnt Ihr auch Stirnbänder bei uns bekommen. Wohlig warm und gut aussehend.
 
+Die Stirnbänder sind zur Zeit nicht in unserem shop Verfügbar. Sobald wir sie wieder verkaufen findet Ihr hier ein link zu den Stirnbändern.
+Wenn Ihr trotzdem intersse habt schreibt uns eine Mail.
+
 {{< load-photoswipe >}}
-{{< gallery dir="/img/stirnband/" caption-position="none"/>}} 
-
-
-
+{{< gallery dir="/img/stirnband/" caption-position="none"/>}}
